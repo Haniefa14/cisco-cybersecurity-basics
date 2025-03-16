@@ -1,6 +1,7 @@
 # cisco-cybersecurity-basics
 Notes and labs from my introduction to Cybersecurity course with Cisco, covering foundational cybersecurity principals.
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="901e8e05-1092-4b94-aa28-e14877b25958" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # What is Cybersecurity?
 
